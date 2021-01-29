@@ -1,0 +1,24 @@
+{
+  "name": "focus_image",
+  "version": "1.0.0",
+  "description": "Brings focus to the hovered/focused image / media element & grays out all the other ones",
+  "main": "focusImage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Feinoko/focusImage.git"
+  },
+  "keywords": [
+    "animation",
+    "focus",
+    "hover"
+  ],
+  "author": "Jonathan LE CORRE",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/Feinoko/focusImage/issues"
+  },
+  "homepage": "https://github.com/Feinoko/focusImage#readme"
+}

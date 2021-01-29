@@ -82,3 +82,5 @@ function recess(i) {
   unGray(i);
   refill(); // re-fill array of image (re-add the removed index)
 }
+
+module.exports.focusImage = focusImage;
